@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Jihad</h1>
 <h3 align="center">A passionate and dedicated software engineer with a background in chemistry and a self-taught journey in Flutter development. I’ve developed successful cross-platform applications for clients, showcasing strong skills in Flutter and Dart. I excelled in a specialized training course at Step-by-Step, receiving a recommendation from my instructor, Mr. Anas Rasheed, for employment.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadjiha&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadjiha" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammadjiha" alt="mohammadjiha" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [Comprehensive Vehicle Information App](https://github.com/mohammadjiha/vin_sweep3)
 
