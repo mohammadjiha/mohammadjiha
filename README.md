@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Mohammad Jihad</h1>
-<h3 align="center">A passionate and dedicated software engineer with a background in chemistry and a self-taught journey in Flutter development. I’ve developed successful cross-platform applications for clients, showcasing strong skills in Flutter and Dart. I excelled in a specialized training course at Step-by-Step, receiving a recommendation from my instructor, Mr. Anas Rasheed, for employment.</h3>
+<# Mohammed Hindy | Software Engineer | Flutter Developer
+
+![Hello GIF](https://i.pinimg.com/originals/3c/66/44/3c6644e66d201ed4510e4e52c8f4eb5f.gif)
+
+📞 **+962 796 592 789** | ✉️ **mohammadhindy2020@gmail.com** | 📍 **Amman, Jordan**
 
 
 
