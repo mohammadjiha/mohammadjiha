@@ -4,14 +4,6 @@
 
 📞 **+962 796 592 789** | ✉️ **mohammadhindy2020@gmail.com** | 📍 **Amman, Jordan**
 
-
-
-- 🔭 I’m currently working on [Comprehensive Vehicle Information App](https://github.com/mohammadjiha/vin_sweep3)
-
-- 👯 I’m looking to collaborate on [Educational App for Students](https://github.com/mohammadjiha/taggeer-app)
-
-- 🤝 I’m looking for help with **Operational Efficiency Enhancement App**
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
