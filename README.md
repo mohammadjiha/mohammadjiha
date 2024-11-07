@@ -1,6 +1,6 @@
 # Mohammed Hindy | Software Engineer | Flutter Developer
 
-![Background Image]([https://github.com/USERNAME/REPOSITORY_NAME/blob/main/assets/your_image.jpg?raw=true](https://pin.it/dbP8GUgIi))
+![Background Image](https://github.com/mohammadjiha/README.md/blob/main/assets/your_image.jpg?raw=true)
 
 📞 **+962 796 592 789** | ✉️ **mohammadhindy2020@gmail.com** | 📍 **Amman, Jordan**
 
