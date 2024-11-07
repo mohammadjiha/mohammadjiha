@@ -4,10 +4,6 @@
 
 📞 **+962 796 592 789** | ✉️ **mohammadhindy2020@gmail.com** | 📍 **Amman, Jordan**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohammad-jihad-642173284/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammad-jihad-642173284/" height="30" width="40" /></a>
